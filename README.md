@@ -7,5 +7,9 @@ Simple automated console game using Javascript
 * HTML
 * Javascript
 
+## Instructions
+* Open index.html file and follow the prompts
+* Have fun!
+
 ## Contribution
 Made with ❤️ by Erin L Knapp
